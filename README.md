@@ -1,6 +1,6 @@
 
-<h1><p align="center">Hola, soy Aitor Quiñoa</p></h1>
-<h2>Desarrollador de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.</h2>
+<h1><p align="center">Hola, soy <b>Aitor Quiñoa</b></p></h1>
+<h3>Desarrollador de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.</h3>
 
 ## Tecnologías
 
