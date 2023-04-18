@@ -1,6 +1,6 @@
 # Acerca de mí
 
-Hola, soy Aitor Quiñoa
+<center>Hola, soy Aitor Quiñoa</center>
 Desarrollador de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.
 
 ## Tecnologías
