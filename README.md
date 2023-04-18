@@ -1,5 +1,5 @@
 
-<h2><p align="center"><i>Hola, soy</i> <h1>Aitor Quiñoa</h1></p></h2>
+<p align="center"><h2>Hola, soy</h2> <h1>Aitor Quiñoa</h1></p>
 <h3>Desarrollador de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.</h3>
 
 ## Tecnologías
