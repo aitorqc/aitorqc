@@ -15,10 +15,8 @@ Aquí están algunas de las tecnologías con las que estoy más familiarizado:
 
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
-1. **[nombre del proyecto]:** [breve descripción del proyecto y su propósito]
-2. **[nombre del proyecto]:** [breve descripción del proyecto y su propósito]
-3. **[nombre del proyecto]:** [breve descripción del proyecto y su propósito]
+[![Cosmetic Ecommerce](https://github.com/aitorqc/cosmetic-ecommerce/blob/main/public/captura.png)](https://cosmeticommerce.42web.io) [![Descripción de la imagen 2](URL de la imagen 2)](URL del enlace 2) [![Descripción de la imagen 3](URL de la imagen 3)](URL del enlace 3)
 
 ## Contacto
 
-Si quieres ponerte en contacto conmigo, puedes encontrarme en [https://www.linkedin.com/in/aitor-quinoa-web-developer/](enlace a tu perfil), o enviarme un correo electrónico.
+Si quieres ponerte en contacto conmigo, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/aitor-quinoa-web-developer), o enviarme un correo electrónico.
