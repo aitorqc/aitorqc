@@ -1,6 +1,8 @@
 <p align="center">Hola, soy <b>Aitor Quiñoa</b></font></p>
-<font size= "3">Hola</font>
-de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
+Desarrollador de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.
 
 ## Tecnologías
 
