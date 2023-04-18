@@ -15,8 +15,8 @@ Aquí están algunas de las tecnologías con las que estoy más familiarizado:
 
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
-[![Cosmetic Ecommerce](https://github.com/aitorqc/cosmetic-ecommerce/blob/main/public/Cosmetic_M.PNG)](https://cosmeticommerce.42web.io) [![Tech Ecommerce](https://github.com/aitorqc/fitclub/blob/main/public/FitClub_M.PNG)](https://ecommerce-nine-blue.vercel.app/
-) [![FitClub](https://github.com/aitorqc/ecommerce/blob/main/public/JSM_M.PNG)](https://aitorqc.github.io/fitclub)
+[![Cosmetic Ecommerce](https://github.com/aitorqc/cosmetic-ecommerce/blob/main/public/Cosmetic_S.PNG)](https://cosmeticommerce.42web.io) [![Tech Ecommerce](https://github.com/aitorqc/ecommerce/blob/main/public/JSM_S.PNG)](https://ecommerce-nine-blue.vercel.app/
+) [![FitClub](https://github.com/aitorqc/fitclub/blob/main/public/FitClub_S.PNG)](https://aitorqc.github.io/fitclub)
 
 ## Contacto
 
