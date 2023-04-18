@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, soy </h1>
-<span style="color:red">some **This is Red Bold.** text</span>
+This is <span class="red-text">red text</span> and this is <span class="blue-text">blue text</span>.
 <h3>Desarrollador de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.</h3>
 
 ## Tecnologías
