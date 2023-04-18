@@ -1,5 +1,5 @@
-#<p align="center">Hola, soy <b>Aitor Quiñoa</b></font></p>
-Desarrollador de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.
+<p align="center">Hola, soy <b>Aitor Quiñoa</b></font></p>
+<font size=”1”>Desarrollador</font> de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.
 
 ## Tecnologías
 
