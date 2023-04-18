@@ -1,6 +1,6 @@
 # Acerca de mí
 
-<p align="center">Hola, soy <b>##Aitor Quiñoa<b></p>
+<p align="center">Hola, soy <b style="font-size: 1.5em;">Aitor Quiñoa<b></p>
 Desarrollador de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.
 
 ## Tecnologías
