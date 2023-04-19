@@ -3,10 +3,11 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         h1{
-          font-size: 2rem;
+          font-size: 1.5rem;
         }
         
-        span{
+        h1 span{
+          font-size: 2rem;
           color: #008B16;
         }
         
