@@ -3,8 +3,9 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         span{
-          color: #00CF2E;
+          color: #008B16;
         }
+        
         @keyframes hi  {
             0% { transform: rotate( 0.0deg) }
            10% { transform: rotate(14.0deg) }
