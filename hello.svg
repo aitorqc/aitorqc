@@ -63,7 +63,7 @@
         
         .down {
           font-size: 2.5rem;
-          animation: hi 1.5s linear -0.5s infinite;
+          animation: down 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
           margin-bottom: 1rem;
