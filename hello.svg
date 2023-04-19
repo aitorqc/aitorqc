@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        span{
+        h1{
           color: #008B16;
         }
         
@@ -40,7 +40,7 @@
       </style>
 
       <div class="container">
-        <h1>Hola, soy <span>Aitor Quiñoa</span> <div class="hi">👋</div></h1>
+        <h2>Hola, soy <h1>Aitor Quiñoa</h1> <div class="hi">👋</div></h2>
       </div>
     </div>
   </foreignObject>
