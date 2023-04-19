@@ -49,13 +49,14 @@
         }
         
         .down {
+          font-size: 1.5rem;
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
         
         .container h2{
-          padding: 1rem 1rem 1.5rem;
+          padding: 1rem;
           text-align: justify;
         }
       </style>
