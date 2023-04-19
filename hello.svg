@@ -43,6 +43,10 @@
           display: inline-block;
           transform-origin: 70% 70%;
         }
+        
+        .container h2{
+          text-align: justify;
+        }
       </style>
 
       <div class="container">
