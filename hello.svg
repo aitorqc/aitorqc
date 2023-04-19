@@ -12,7 +12,8 @@
         
         h1 span{
           font-size: 2rem;
-          color: #008B16;
+          color: #00CF2E;
+          text-shadow: 2px 2px #008B16;
         }
         
         @keyframes hi  {
