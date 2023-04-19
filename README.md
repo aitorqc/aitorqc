@@ -2,7 +2,6 @@
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;">
 </div>
-<h3>Desarrollador de software apasionado y entusiasta de la tecnología. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy buscando mejorar mis habilidades de programación.</h3>
 
 ## Tecnologías
 
