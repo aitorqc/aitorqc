@@ -1,12 +1,69 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        
-      </style>
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Styling for the SVG content */
+    .container {
+      background-color: black;
+      width: 100%;
+      height: 400px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      font-family: Arial, sans-serif;
+      font-size: 36px;
+      text-align: center;
+    }
 
-      <div class="container">
-        <h1>Hi there, my name is Aitor Quiñoa<div class="hi">👋</div></h1>
+    .name {
+      font-size: 48px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+
+    .projects {
+      font-size: 24px;
+      margin-top: 40px;
+    }
+
+    .contact {
+      font-size: 24px;
+      margin-top: 40px;
+    }
+
+    /* Animation */
+    @keyframes swing {
+      0% {
+        transform: rotate(14deg);
+      }
+      40% {
+        transform: rotate(-4deg);
+      }
+      50% {
+        transform: rotate(10deg);
+      }
+      60% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(0deg);
+      }
+    }
+
+    .hi {
+      animation: swing 2s ease-in-out infinite;
+      display: inline-block;
+    }
+  </style>
+  <rect x="0" y="0" width="100%" height="100%" fill="#24292e" />
+  <foreignObject width="100%" height="100%">
+    <div class="container">
+      <h1 class="name">Hi there, my name is [your name] <div class="hi">👋</div></h1>
+      <div class="projects">
+        <p>Welcome to my GitHub profile! As a web developer, I love creating projects that solve problems and make a difference in people's lives. Here you can find some of my latest projects, which I hope you will find interesting and useful.</p>
+      </div>
+      <div class="contact">
+        <p>If you have any questions or would like to get in touch, feel free to send me a message. You can reach me via email at [your email address] or connect with me on LinkedIn at [your LinkedIn profile URL]. I look forward to hearing from you!</p>
       </div>
     </div>
   </foreignObject>
