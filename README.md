@@ -8,7 +8,7 @@
 Aquí están algunas de las tecnologías con las que estoy más familiarizado:
 
 <div style="width: 100%;">
-  <img src="technologies.svg" style="width: 100%;">
+  <img src=".svg" style="width: 100%;">
 </div>
 
 ## Proyectos
