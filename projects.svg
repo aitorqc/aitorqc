@@ -1,42 +1,42 @@
-
-<svg fill="none" viewBox="0 0 600 900" width="600" height="900" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .container {
-          background: #000;
-          background-size: 400% 400%;
-
-          width: 100%;
-          height: 100%;
-
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-        }
+@keyframes bounce {
+  0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  3%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  5%   { transform: scale(1.1,  .9)  translateY(5px)   skew(0deg,  0deg); }
+  12%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
+  13%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
+  20%  { transform: scale(1.05, .95) translateY(0)     skew(0deg,  0deg); }
+  22%  { transform: scale(1,    1)   translateY(-7px)  skew(0deg,  0deg); }
+  27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+}
+img {
+  width: 120px;
+  padding-top: 70px;
+  transform-origin: bottom;
+  animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
+}
       </style>
-
-      <div class="container">
-        <div class="card">
-    <a href="https://aitorqc.github.io/fitclub">
-      <img src="https://github.com/aitorqc/fitclub/blob/main/public/Captura.png" alt="FitClub"/>
-    </a>
-  </div>
-  
-  <div class="card">
-    <a href="https://reactflix-60a70.web.app/">
-      <img src="https://github.com/aitorqc/reactflix/blob/master/public/Captura.png" alt="ReactFlix "/>
-    </a>
-  </div>
-  
-  <div class="card">
-    <a href="https://cosmeticommerce.42web.io/">
-      <img src="https://github.com/aitorqc/cosmetic-ecommerce/blob/main/public/captura.png" alt="Cosmetic"/>
-    </a>
-  </div>
-      </div>
+      <img src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg" alt="FitClub"/>
     </div>
   </foreignObject>
 </svg>
+
+
+
+<!-- <table cellpadding="0">
+  <tr style="padding: 0">
+    <td width="33%" height="200px" style="background-color: #;">
+      <img height="100%" width="100%" src="https://github.com/aitorqc/fitclub/blob/main/public/Captura.png" alt="FitClub"/>
+    </td>
+    <td width="33%" height="200px">
+      <img height="100%" width="100%" src="https://github.com/aitorqc/reactflix/blob/master/public/Captura.png" alt="ReactFlix "/>
+    </td>
+    <td width="33%" height="200px">
+      <img height="100%" width="100%" src="https://github.com/aitorqc/cosmetic-ecommerce/blob/main/public/captura.png" alt="Cosmetic"/>
+    </td>
+  </tr>
+</table> -->
