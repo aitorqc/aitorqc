@@ -34,14 +34,14 @@
         
         th, td {
           text-align: center;
-          padding: 4px;
         }
 
         th {
           font-size: .8rem;
           background-color: #00CF2E;
-          color: #000;
+          color: #fff;
           font-weight: bold;
+          padding: 8px 4px;
         }
         
         tr{
@@ -50,7 +50,8 @@
         
         td{
           border-right: 1px solid #fff;
-           background: #0076AD;
+          background: #0076AD;
+          padding: 4px;
         }
         
         tbody td:last-child{
