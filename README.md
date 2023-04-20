@@ -16,7 +16,15 @@ Aquí están algunas de las tecnologías con las que estoy más familiarizado:
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
 <div style="width: 100%;">
-  <img src="projects.svg" style="width: 100%;">
+  <a href="https://aitorqc.github.io/fitclub">
+    <img src="fitclub.png" style="width: 33%;">
+  </a>
+  <a href="https://cosmeticommerce.42web.io/">
+    <img src="cosmetic.png" style="width: 33%;">
+  </a>
+  <a href="https://reactflix-60a70.web.app/">
+    <img src="reactflix.png" style="width: 33%;">
+  </a>
 </div>
 
 ## Contacto
