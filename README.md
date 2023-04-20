@@ -29,4 +29,4 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
 
 ## Contacto
 
-Si quieres ponerte en contacto conmigo, puedes encontrarme en [insertar enlace a tu perfil de LinkedIn o Twitter](enlace a tu perfil), o enviarme un correo electrónico a [tu dirección de correo electrónico].
+Si quieres ponerte en contacto conmigo, puedes encontrarme en [](), o enviarme un correo electrónico a [].
