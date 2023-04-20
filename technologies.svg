@@ -25,7 +25,8 @@
         }
         
         tbody{
-          background: linear-gradient(90deg, #5de0e6, #0076AD, #003B8B, #003780);
+<!--           background: linear-gradient(90deg, #5de0e6, #0076AD, #003B8B, #003780); -->
+          background: #0076AD;
         }
         
         th, td {
