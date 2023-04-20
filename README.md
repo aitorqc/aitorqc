@@ -15,8 +15,9 @@ Aquí están algunas de las tecnologías con las que estoy más familiarizado:
 
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
-<img src="https://github.com/aitorqc/fitclub/blob/main/public/Captura.png" alt="FitClub"/>
-<img src="https://github.com/aitorqc/fitclub/blob/main/public/Captura.png" alt="FitClub"/>
+<div style="width: 100%;">
+  <img src="projects.svg" style="width: 100%;">
+</div>
 
 ## Contacto
 
