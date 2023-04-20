@@ -7,9 +7,9 @@
 
 Aquí están algunas de las tecnologías con las que estoy más familiarizado:
 
-- **Lenguajes de programación:** [lista de lenguajes que conoces]
-- **Frameworks:** [lista de frameworks que has utilizado]
-- **Bases de datos:** [lista de bases de datos que has utilizado]
+<div style="width: 100%;">
+  <img src="technologies.svg" style="width: 100%;">
+</div>
 
 ## Proyectos
 
