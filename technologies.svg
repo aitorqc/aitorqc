@@ -52,37 +52,37 @@
     <tr>
       <td>CSS</td>
       <td>Sass</td>
-      <td>MongoDB</td>
+      <td>Firebase</td>
     </tr>
     <tr>
       <td>JavaScript</td>
       <td>Bootstrap</td>
-      <td>PostgreSQL</td>
+      <td>MariaDB</td>
     </tr>
     <tr>
       <td>TypeScript</td>
       <td>jQuery</td>
-      <td>SQLite</td>
+      <td></td>
     </tr>
     <tr>
       <td>PHP</td>
       <td>Tailwind</td>
-      <td>Firebase</td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
       <td>Express</td>
-      <td>SQL Server</td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
       <td>Next.js</td>
-      <td>Oracle</td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
       <td>Node.js</td>
-      <td>MariaDB</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
