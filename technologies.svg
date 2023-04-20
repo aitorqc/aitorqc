@@ -22,9 +22,12 @@
           border-radius: 1em;
           overflow: hidden;
           width: 100%;
+        }
+        
+        tbody{
           background: linear-gradient(90deg, #5de0e6, #0076AD, #003B8B, #003780);
         }
-
+        
         th, td {
           text-align: center;
           padding: 10px;
