@@ -18,20 +18,21 @@
         }
         
         table {
-    border-collapse: collapse;
-    width: 100%;
-  }
+          border-collapse: collapse;
+        width: 100%;
+        }
 
-  th, td {
-    text-align: center;
-    padding: 12px;
-    border: 2px solid #000;
-  }
+        th, td {
+          text-align: center;
+          padding: 12px;
+          border: 2px solid #000;
+        }
 
-  th {
-    background-color: #00CF2E;
-    font-weight: bold;
-  }
+        th {
+          background-color: #00CF2E;
+          color: #000;
+          font-weight: bold;
+        }
       </style>
 
       <div class="container">
