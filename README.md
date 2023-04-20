@@ -29,4 +29,4 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
 
 ## Contacto
 
-Si quieres ponerte en contacto conmigo, puedes encontrarme en [](), o enviarme un correo electrónico a [].
+Si quieres ponerte en contacto conmigo, puedes encontrarme en [![LinkedIn](https://github.com/aitorqc/aitorqc/blob/main/linkedin.png)](https://www.linkedin.com/in/aitor-quinoa-web-developer/), o enviarme un correo electrónico a [Aitor Quiñoa](mailto:aquinoacordero@gmail.com).
