@@ -32,5 +32,5 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
 Si quieres ponerte en contacto conmigo, puedes encontrarme en <a href="https://www.linkedin.com/in/aitor-quinoa-web-developer/" target="_blank">
     <img src="linkedin.png" width="80px">
   </a>, o enviarme un correo electrónico a <a href="mailto:aquinoacordero@gmail.com" target="_blank">
-    <img src="envelope.png" width="30%">
+    <img src="envelope.png" width="80px">
   </a>.
