@@ -29,13 +29,12 @@
         }
         
         tbody{
-          background: #0076AD;
+          background: none;
         }
         
         th, td {
           text-align: center;
           padding: 4px;
-          background: #0076AD;
         }
 
         th {
@@ -51,6 +50,7 @@
         
         td{
           border-right: 1px solid #fff;
+          background: none;
         }
         
         tbody td:last-child{
