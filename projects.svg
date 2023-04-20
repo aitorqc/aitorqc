@@ -4,16 +4,10 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
-          background: linear-gradient(45deg, #6CD6DB, #5de0e6, #004AAD, #003B8B, #003780);
-          background-size: 400% 400%;
-
           width: 100%;
           height: 100%;
 
           display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
           color: white;
 
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -21,7 +15,23 @@
       </style>
 
       <div class="container">
-        
+        <div class="card">
+    <a href="#">
+      <img src="https://via.placeholder.com/300x450" alt="Card 1">
+    </a>
+  </div>
+  
+  <div class="card">
+    <a href="#">
+      <img src="https://via.placeholder.com/300x450" alt="Card 2">
+    </a>
+  </div>
+  
+  <div class="card">
+    <a href="#">
+      <img src="https://via.placeholder.com/300x450" alt="Card 3">
+    </a>
+  </div>
       </div>
     </div>
   </foreignObject>
