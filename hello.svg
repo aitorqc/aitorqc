@@ -36,7 +36,7 @@
         }
 
         .container {
-          background: linear-gradient(45deg, #6CD6DB, #5de0e6, #004AAD, #003B8B, #003780);
+          background: linear-gradient(45deg, #379BC6, #2282AB, #0F5D7E, #04445F, #01364C);
           background-size: 400% 400%;
 
           width: 100%;
