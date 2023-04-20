@@ -17,13 +17,13 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
 
 <div style="width: 100%;" align="center">
   <a href="https://aitorqc.github.io/fitclub" target="_blank">
-    <img src="fitclub.png" style="width: 30%;">
+    <img src="fitclub.png" width="33%">
   </a>
   <a href="https://cosmeticommerce.42web.io/" target="_blank">
-    <img src="cosmetic.png" style="width: 30%;">
+    <img src="cosmetic.png" width="33%">
   </a>
   <a href="https://reactflix-60a70.web.app/" target="_blank">
-    <img src="reactflix.png" style="width: 30%;">
+    <img src="reactflix.png" width="33%">
   </a>
 </div>
 
