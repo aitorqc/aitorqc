@@ -46,11 +46,11 @@
         }
         
         tr{
-          border-bottom: 2px solid #fff;
+          border-bottom: 1px solid #fff;
         }
         
         td{
-          border-right: 2px solid #fff;
+          border-right: 1px solid #fff;
         }
         
         tbody td:last-child{
