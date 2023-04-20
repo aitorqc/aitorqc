@@ -29,7 +29,7 @@
         }
         
         tbody{
-          background: none;
+           background: #0076AD;
         }
         
         th, td {
@@ -50,7 +50,7 @@
         
         td{
           border-right: 1px solid #fff;
-          background: none;
+           background: #0076AD;
         }
         
         tbody td:last-child{
