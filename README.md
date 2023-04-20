@@ -16,13 +16,13 @@ Aquí están algunas de las tecnologías con las que estoy más familiarizado:
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
 <div style="width: 100%;">
-  <a href="https://aitorqc.github.io/fitclub">
+  <a href="https://aitorqc.github.io/fitclub" target="_blank">
     <img src="fitclub.png" style="width: 33%;">
   </a>
-  <a href="https://cosmeticommerce.42web.io/">
+  <a href="https://cosmeticommerce.42web.io/" target="_blank">
     <img src="cosmetic.png" style="width: 33%;">
   </a>
-  <a href="https://reactflix-60a70.web.app/">
+  <a href="https://reactflix-60a70.web.app/" target="_blank">
     <img src="reactflix.png" style="width: 33%;">
   </a>
 </div>
