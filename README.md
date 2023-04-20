@@ -15,8 +15,8 @@ Aquí están algunas de las tecnologías con las que estoy más familiarizado:
 
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
-1. **[nombre del proyecto]:** [breve descripción del proyecto y su propósito]
-2. **[nombre del proyecto]:** [breve descripción del proyecto y su propósito]
+<img src="https://github.com/aitorqc/fitclub/blob/main/public/Captura.png" alt="FitClub"/>
+<img src="https://github.com/aitorqc/fitclub/blob/main/public/Captura.png" alt="FitClub"/>
 
 ## Contacto
 
