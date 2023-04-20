@@ -4,6 +4,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
        .container {
+        background: #000;
           background-size: 400% 400%;
 
           width: 100%;
@@ -25,20 +26,26 @@
         }
         
         tbody{
-<!--           background: linear-gradient(90deg, #5de0e6, #0076AD, #003B8B, #003780); -->
           background: #0076AD;
         }
         
         th, td {
           text-align: center;
           padding: 10px;
-          border-bottom: 2px solid #fff;
         }
 
         th {
           background-color: #00CF2E;
           color: #000;
           font-weight: bold;
+        }
+        
+        tr{
+          border-bottom: 2px solid #fff;
+        }
+        
+        tbody tr:last-child{
+          border-bottom: none;
         }
       </style>
 
