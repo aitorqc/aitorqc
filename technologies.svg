@@ -24,6 +24,10 @@
           width: 100%;
         }
         
+        thead{
+          background-color: #00CF2E;
+        }
+        
         tbody{
           background: #0076AD;
         }
