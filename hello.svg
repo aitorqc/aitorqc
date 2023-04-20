@@ -3,15 +3,15 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         h1{
-          font-size: 1.5rem;
+          font-size: 1.2rem;
         }
         
         h2{
-          font-size: 1rem;
+          font-size: .8rem;
         }
         
         h1 span{
-          font-size: 2rem;
+          font-size: 1.6rem;
           color: #00CF2E;
           text-shadow: 2px 2px #008B16;
         }
@@ -52,7 +52,7 @@
         }
         
         .container h2{
-          padding: 1rem;
+          padding: 0 1.5rem;
           text-align: justify;
         }
 
@@ -63,7 +63,7 @@
         }
         
         .down {
-          font-size: 2.5rem;
+          font-size: 2rem;
           animation: down 1s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
