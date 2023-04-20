@@ -4,7 +4,6 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
        .container {
-          background: linear-gradient(45deg, #6CD6DB, #5de0e6, #004AAD, #003B8B, #003780);
           background-size: 400% 400%;
 
           width: 100%;
@@ -23,6 +22,7 @@
           border-radius: 1em;
           overflow: hidden;
           width: 100%;
+          background: linear-gradient(45deg, #6CD6DB, #5de0e6, #004AAD, #003B8B, #003780);
         }
 
         th, td {
