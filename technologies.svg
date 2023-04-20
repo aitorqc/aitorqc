@@ -19,7 +19,7 @@
         
         table {
           font-size: 1rem;
-          border-collapse: collapse;
+          border-radius: 10px;
           width: 100%;
         }
 
@@ -27,7 +27,6 @@
           text-align: center;
           padding: 10px;
           border: 2px solid #fff;
-          border-radius: 10px;
         }
 
         th {
