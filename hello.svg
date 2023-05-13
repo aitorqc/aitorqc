@@ -50,25 +50,7 @@
           transform-origin: 70% 70%;
           margin-bottom: 2rem;
         }
-        
-        .my-link{
-          font-size: 2rem;
-          margin-bottom: 1.5rem;
-          display: inline-block;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
-  background-image: linear-gradient(to right, #333, #333);
-  background-repeat: no-repeat;
-  background-position: 0 100%;
-  background-size: 0 2px;
-  transition: background-size 0.3s ease-in-out;
-        }      
-        
-.my-link:hover {
-  background-size: 100% 2px;
-}
-        
+      
         @keyframes hi  {
             0% { transform: rotate( 0.0deg) }
            10% { transform: rotate(14.0deg) }
@@ -95,7 +77,6 @@
         <div class="down">
            👇
         </div>
-        <a href="https://aitorqc.es" target="_blank" rel="noreferrer"  class="my-link">Portfolio</a>
       </div>
     </div>
   </foreignObject>
