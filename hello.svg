@@ -67,7 +67,11 @@
           animation: down 1s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
-          margin-bottom: 2rem;
+          margin-bottom: 2.5rem;
+        }
+        
+        .my-link{
+          font-size: 2rem;
         }
       </style>
 
@@ -77,6 +81,7 @@
         <div class="down">
            👇
         </div>
+        <a href="https://aitorqc.es" target="_blank" rel="noreferrer"  class="my-link">Portfolio</a>
       </div>
     </div>
   </foreignObject>
