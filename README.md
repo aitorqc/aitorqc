@@ -3,6 +3,10 @@
   <img src="hello.svg" style="width: 100%;">
 </div>
 
+<div style="width: 100%;" align="center">
+  <a href="https://aitorqc.es" target="_blank"><img src="world-wide-web.png" width="70px"> PORTFOLIO</a>
+</div>
+
 ## Tecnologías
 
 Aquí están algunas de las tecnologías con las que estoy más familiarizado:
